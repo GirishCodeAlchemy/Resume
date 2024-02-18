@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+
+black_theme:
+  signature: _includes/signature.html
