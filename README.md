@@ -50,6 +50,7 @@ on the road
 - DevOps/application
 
 > Currently live in Canada.
+
 > Previously lived in India, Bangalore, my favorite city.
 
 > Let's meet ☕.
