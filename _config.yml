@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-show_downloads: true
+style: dark
 google_analytics:
 black_theme:
   signature: _includes/signature.html
