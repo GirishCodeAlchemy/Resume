@@ -22,7 +22,7 @@ on the road...
 
 > _Rich experience in full-stack software engineering with full product life-cycle and open source contribution. I care about user experience as much as internal/external developer experience, with multiple experiences in working with a cross-functional team._
 
-## Resume
+## [Resume](https://girishcodealchemy.github.io/Resume/Girish_V_Resume_2024.pdf)
 
 👉 Find my latest [resume](https://girishcodealchemy.github.io/Resume/Girish_V_Resume_2024.pdf)
 
