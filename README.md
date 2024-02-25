@@ -42,9 +42,9 @@ on the road...
 
 ## My passions are
 
-- Python/Golang/Nodejs/Shell
 - Building software from zero to one
 - DevOps/application
+- Python/Golang/Nodejs/Shell
 - Initiate project and launch software
 - Software infra/architect/dev tooling
 - Software Engineer, web-specific
