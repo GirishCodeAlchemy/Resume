@@ -42,12 +42,11 @@ on the road...
 
 ## My passions are
 
-- Building software from zero to one
-- DevOps/application
-- Python/Golang/Nodejs/Shell
-- Initiate project and launch software
-- Software infra/architect/dev tooling
-- Software Engineer, web-specific
+- 💻 Software infra/architect/dev tooling
+- 🛠️ DevOps/application
+- 🚀 Building software from zero to one
+- 🐍 Python/Golang/Nodejs/Shell
+- 🚀 Initiate project and launch software
 
 > Currently live in Canada.
 
